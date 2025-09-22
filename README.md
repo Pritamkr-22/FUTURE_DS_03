@@ -23,7 +23,7 @@ This dashboard helps institutions understand student perspectives, improve acade
 - Recommendation Intent → “Would you recommend this college/course to others?”
 
  ## 🖼️ Dashboard Preview
-  ![image alt](https://github.com/Pritamkr-22/FUTURE_DS_2/blob/main/Screenshot%202025-09-15%20095119.png)
+  ![image alt](https://github.com/Pritamkr-22/FUTURE_DS_03/blob/main/Screenshot%202025-09-22%20085421.png)
 
 ## 📌 Conclusion
 - The Student Satisfaction Survey Dashboard provides a clear picture of how students perceive their academic experience.
